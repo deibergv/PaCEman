@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tony/Escritorio/PruebaClient/Cliente.c
+Socket.h
+/home/tony/Escritorio/PruebaClient/Socket.h
+arpa/inet.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+memory.h
+-
+Socket_Cliente.h
+/home/tony/Escritorio/PruebaClient/Socket_Cliente.h
+Socket_Servidor.h
+/home/tony/Escritorio/PruebaClient/Socket_Servidor.h
+pthread.h
+-
+jmorecfg.h
+-
+stdbool.h
+-
+
+/home/tony/Escritorio/PruebaClient/Socket.h
+
+/home/tony/Escritorio/PruebaClient/Socket_Cliente.h
+
+/home/tony/Escritorio/PruebaClient/Socket_Servidor.h
+

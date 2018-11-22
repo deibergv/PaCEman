@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/PruebaClient.dir/Cliente.c.o CMakeFiles/PruebaClient.dir/Socket_Cliente.c.o CMakeFiles/PruebaClient.dir/Socket.c.o CMakeFiles/PruebaClient.dir/Socket_Servidor.c.o  -o PruebaClient -lpthread 
